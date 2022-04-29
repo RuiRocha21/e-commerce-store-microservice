@@ -2,13 +2,14 @@
 Microservices e-commerce store with Event-Driven, CQRS, SAGA, Axon server in Spring Boot
 
 Order run Microservices
-Run axon server by docker by port 8084
-Run DiscoveryServer
-Run OrderService
-Run PaymentService
-Run ProductService
-Run UsersService
-Run ApiGateWay
+
+	Run axon server by docker by port 8084
+	Run DiscoveryServer
+	Run OrderService
+	Run PaymentService
+	Run ProductService
+	Run UsersService
+	Run ApiGateWay
 
 Data base product service
 
