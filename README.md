@@ -1,5 +1,5 @@
-# Event-Driven-Microservices-CQRS-SAGA-Axon-Spring-Boot
-Microservices e-commerce store with Event-Driven, CQRS, SAGA, Axon server in Spring Boot
+# E-COMMERCE-STORE-MICROSERVICE
+e-commerce store microservice with Event-Driven, CQRS, SAGA, Axon server in Spring Boot
 
 Order run Microservices
 
